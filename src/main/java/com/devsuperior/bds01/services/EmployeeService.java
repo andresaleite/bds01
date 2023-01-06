@@ -8,7 +8,6 @@ import org.springframework.transaction.annotation.Transactional;
 import com.devsuperior.bds01.dto.EmployeeDTO;
 import com.devsuperior.bds01.entities.Department;
 import com.devsuperior.bds01.entities.Employee;
-import com.devsuperior.bds01.repositories.DepartmentRepository;
 import com.devsuperior.bds01.repositories.EmployeeRepository;
 
 @Service
